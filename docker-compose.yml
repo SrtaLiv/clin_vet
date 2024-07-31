@@ -21,6 +21,7 @@ services:
       - "3309:3306"
     environment:
       MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_PASSWORD: 1234
       MYSQL_DATABASE: clinica_veterinaria
     restart: always
     healthcheck:
