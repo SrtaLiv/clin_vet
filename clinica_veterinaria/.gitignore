@@ -15,6 +15,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+!*/target/clinica_veterinaria-0.0.1.jar
 *.iws
 *.iml
 *.ipr
