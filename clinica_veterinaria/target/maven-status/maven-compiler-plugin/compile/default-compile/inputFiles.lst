@@ -1,0 +1,12 @@
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/controller/MascotaController.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/dto/MascoDuenioDTO.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Duenio.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/repository/IMascotaRepository.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/MascotaService.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/controller/DuenioController.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Mascota.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/IDuenioService.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/DuenioService.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/ClinicaVeterinariaApplication.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/IMascotaService.java
+/home/liv/Documents/code/clinica_veterinaria/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/repository/IDuenioRepository.java
